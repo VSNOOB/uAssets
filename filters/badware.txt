@@ -762,3 +762,5 @@ thepiratebay3.com^$all
 
 ! Typosquatting: redirects to scam sites
 ||bestbut.com^$all
+||ggmail.com^$all
+||yotube.com^$all
